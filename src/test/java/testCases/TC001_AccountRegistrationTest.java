@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
+import testBase.BaseClass;
 
 public class TC001_AccountRegistrationTest extends BaseClass{
 	
