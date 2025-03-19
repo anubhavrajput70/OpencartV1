@@ -1,0 +1,48 @@
+18:08:30.274 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3047254d: 8 ms
+18:08:30.279 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@21a66d45: 0 ms
+18:29:29.215 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\master.xml"
+18:29:29.423 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\master.xml
+
+18:29:32.482 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+18:29:32.599 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
+18:29:33.037 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
+18:29:33.039 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
+18:29:34.304 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
+18:29:34.340 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
+18:29:48.708 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\master.xml"
+18:29:48.920 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\master.xml
+
+18:29:55.842 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+18:29:55.946 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
+18:29:56.428 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
+18:29:56.431 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
+18:29:57.554 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
+18:29:57.585 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
+18:30:08.704 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\master.xml"
+18:30:08.907 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\master.xml
+
+18:30:11.683 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+18:30:11.837 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
+18:30:12.256 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
+18:30:12.258 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
+18:30:13.457 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
+18:30:13.500 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
+18:33:05.788 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml"
+18:33:06.009 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml
+
+18:33:08.909 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+18:33:09.049 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
+18:33:09.469 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
+18:33:09.471 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
+18:33:10.775 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
+18:33:10.828 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
+18:33:13.490 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+18:33:13.594 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
+18:33:14.073 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
+18:33:14.074 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
+18:33:15.382 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
+18:33:15.412 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
