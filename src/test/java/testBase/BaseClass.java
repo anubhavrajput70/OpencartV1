@@ -4,12 +4,16 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.time.Duration;
+import java.util.Date;
 import java.util.Properties;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -20,11 +24,13 @@ import org.testng.annotations.Parameters;
 
 public class BaseClass {
 
-	public WebDriver driver;
+	//base class create a driver which is refering everywhere but additionaly in extentReportUitliy base class also has the own driver
+	//because we create a object so we make the driver static
+	public static WebDriver driver;
 	public Logger logger;// log4j
 	public Properties p;
 
-	@BeforeClass
+	@BeforeClass(groups= {"sanity","master","regression"})
 	@Parameters({ "os", "browser" })
 	public void setUp(String os, String br) throws IOException {
 		
@@ -58,7 +64,7 @@ public class BaseClass {
 		driver.manage().window().maximize();
 	}
 
-	@AfterClass
+	@AfterClass(groups= {"sanity","master","regression"})
 	public void tearDown() {
 		driver.quit();
 	}
@@ -79,4 +85,17 @@ public class BaseClass {
 		return (generatedNumber + "@" + generatedString);
 	}
 
+	public String captureScreen(String tname)
+	{
+		String timestamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
+		
+		TakesScreenshot takeScreenshot = (TakesScreenshot) driver;
+		File sourceFile = takeScreenshot.getScreenshotAs(OutputType.FILE);
+		
+		String targetFilePath = System.getProperty("user.dir")+"\\screenshots\\"+tname+"_"+timestamp;
+		File targetFile = new File(targetFilePath);
+		
+		sourceFile.renameTo(targetFile);
+		return targetFilePath;
+	}
 }

@@ -11,7 +11,7 @@ import utilities.DataProviders;
 
 public class TC003_LoginDDT extends BaseClass {
 
-	@Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class) // getting data provider from differnt
+	@Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class,groups="datadriven") // getting data provider from differnt
 																				// class
 	public void verifyLoginDDT(String email, String password, String exp) {
 		
