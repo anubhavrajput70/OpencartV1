@@ -1,16 +1,24 @@
-01:12:52.021 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
-01:12:52.817 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
-01:12:55.970 [main] INFO  testCases.TC002_LoginTest - ******* staring TC002_LoginTest ***** 
-01:12:58.172 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest ***** 
-01:16:34.993 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\grouping.xml"
-01:16:35.392 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\grouping.xml
+23:06:25.616 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
+23:06:25.668 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
+23:06:37.861 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml"
+23:06:38.135 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml
 
-01:16:39.184 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
-01:16:39.608 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
-01:16:40.123 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
-01:16:40.127 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
-01:16:42.451 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
-01:16:42.520 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
-01:16:45.907 [main] INFO  testCases.TC002_LoginTest - ******* staring TC002_LoginTest ***** 
-01:16:48.016 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest ***** 
+23:06:42.191 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+23:06:42.467 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
+23:06:42.949 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
+23:06:42.951 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
+23:06:44.112 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
+23:06:44.149 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
+23:08:08.694 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml"
+23:08:08.943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml
+
+23:08:19.994 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+23:08:20.318 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
+23:08:21.124 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
+23:08:21.125 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
+23:08:22.348 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
+23:08:22.397 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
+23:08:26.618 [main] INFO  testCases.TC002_LoginTest - ******* staring TC002_LoginTest ***** 
+23:08:27.931 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest ***** 

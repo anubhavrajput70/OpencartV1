@@ -1,46 +1,47 @@
-00:34:11.603 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-00:34:11.608 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-00:34:11.610 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-00:34:11.629 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-00:34:11.630 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-00:34:11.631 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-00:34:11.651 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-00:34:11.652 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-00:34:11.652 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-00:34:11.673 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-00:34:11.674 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-00:34:11.674 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-00:34:11.695 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-00:34:11.695 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-00:34:11.696 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-00:34:11.718 [main] INFO  testCases.TC003_LoginDDT - ******* staring TC_003_LoginDDT *******
-00:34:13.500 [main] INFO  testCases.TC003_LoginDDT - ******* Finish TC_003_LoginDDT *******
-00:34:13.507 [main] INFO  testCases.TC003_LoginDDT - ******* staring TC_003_LoginDDT *******
-00:34:24.561 [main] INFO  testCases.TC003_LoginDDT - ******* Finish TC_003_LoginDDT *******
-00:34:24.561 [main] INFO  testCases.TC003_LoginDDT - ******* staring TC_003_LoginDDT *******
-00:34:35.263 [main] INFO  testCases.TC003_LoginDDT - ******* Finish TC_003_LoginDDT *******
-00:34:35.266 [main] INFO  testCases.TC003_LoginDDT - ******* staring TC_003_LoginDDT *******
-00:34:45.914 [main] INFO  testCases.TC003_LoginDDT - ******* Finish TC_003_LoginDDT *******
-00:34:45.916 [main] INFO  testCases.TC003_LoginDDT - ******* staring TC_003_LoginDDT *******
-00:34:47.685 [main] INFO  testCases.TC003_LoginDDT - ******* Finish TC_003_LoginDDT *******
-23:07:23.844 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\grouping.xml"
-23:07:24.080 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\grouping.xml
+23:00:40.680 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
+23:00:40.783 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+23:01:36.687 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml"
+23:01:36.943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml
 
-23:07:35.382 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
-23:07:35.520 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
-23:07:35.970 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
-23:07:35.971 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
-23:07:37.496 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
-23:07:37.528 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
-23:07:40.011 [main] INFO  testCases.TC002_LoginTest - ******* staring TC002_LoginTest ***** 
-23:07:41.316 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest ***** 
-01:12:06.414 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\grouping.xml"
-01:12:42.984 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\grouping.xml"
-01:12:43.460 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\grouping.xml
+23:01:39.043 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+23:01:39.217 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
+23:01:39.660 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
+23:01:39.661 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
+23:01:41.226 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
+23:01:41.279 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
+23:01:43.146 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+23:01:43.287 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
+23:01:43.781 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
+23:01:43.782 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
+23:01:45.142 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
+23:01:45.189 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
+23:01:45.287 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+23:03:43.784 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml"
+23:03:43.988 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml
 
-01:12:49.592 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
-01:12:49.834 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
-01:12:50.689 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
-01:12:50.691 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
+23:03:46.313 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+23:03:46.440 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
+23:03:46.954 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
+23:03:46.955 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
+23:03:48.416 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
+23:03:48.497 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
+23:05:52.730 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml"
+23:05:52.951 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml
+
+23:05:55.865 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+23:05:56.003 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
+23:05:56.629 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
+23:05:56.630 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
+23:05:57.973 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
+23:05:58.030 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
+23:06:17.808 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml"
+23:06:18.062 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml
+
+23:06:23.585 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
+23:06:23.863 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
+23:06:24.363 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
+23:06:24.364 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********

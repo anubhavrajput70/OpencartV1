@@ -121,7 +121,7 @@ public class ExtentReportsUtility implements ITestListener {
 //			email.setDataSourceResolver(new DataSourceUrlResolver(url));
 //			email.setHostName("smtp.googlemail.com");
 //			email.setSmtpPort(465);
-//			email.setAuthenticator (new DefaultAuthenticator("pavanoltraining@gmail.com","password"));
+//			email.setAuthenticator (new DefaultAuthenticator("anubhav@gmail.com","password"));
 //			email.setSSLOnConnect(true);
 //			email.setFrom("pavanoltraining@gmail.com"); //Sender
 //			email.setSubject("Test Results");
