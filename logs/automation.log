@@ -1,24 +1,6 @@
-23:06:25.616 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
-23:06:25.668 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
-23:06:37.861 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml"
-23:06:38.135 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml
-
-23:06:42.191 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
-23:06:42.467 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
-23:06:42.949 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
-23:06:42.951 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
-23:06:44.112 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
-23:06:44.149 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
-23:08:08.694 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml"
-23:08:08.943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\crossbrowserparallel.xml
-
-23:08:19.994 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starging TC001_AccountRegistrationTest ***********
-23:08:20.318 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on myAccount link ***********
-23:08:21.124 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** clicked on register link ***********
-23:08:21.125 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** providing customer details ***********
-23:08:22.348 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** validating expected msg ***********
-23:08:22.397 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** finished TC001_AccountRegistrationTest ***********
-23:08:26.618 [main] INFO  testCases.TC002_LoginTest - ******* staring TC002_LoginTest ***** 
-23:08:27.931 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest ***** 
+23:51:20.068 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\master.xml"
+23:51:24.890 [main] INFO  testCases.TC002_LoginTest - ******* staring TC002_LoginTest ***** 
+23:51:26.341 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest ***** 
+00:03:50.294 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\anubh\OneDrive\Desktop\Eclipse workspace\OpencartV1\master.xml"
+00:03:54.782 [main] INFO  testCases.TC002_LoginTest - ******* staring TC002_LoginTest ***** 
+00:03:57.041 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC002_LoginTest ***** 
